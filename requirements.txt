@@ -1,0 +1,16 @@
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+python-magic
+#python-magic-bin
+OpenAI
+nltk
+sentence-transformers
+faiss-cpu
+python-dotenv
+langchain-openai
+langchain-community

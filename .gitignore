@@ -1,0 +1,8 @@
+notebooks/text_loaders_splitters.ipynb
+notebooks/faiss_tutorial.ipynb
+notebooks/faiss_index
+notebooks/movies.csv
+notebooks/nvidianews.txt
+notebooks/sample_text.csv
+notebooks/vector_index.pkl
+.env

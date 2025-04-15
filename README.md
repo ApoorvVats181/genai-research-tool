@@ -4,11 +4,12 @@ A smart, generative AI-driven tool that transforms web articles into concise, ac
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="1.png" alt="Screenshot 1" width="30%" />
-  <img src="2.png" alt="Screenshot 2" width="30%" />
-  <img src="3.png" alt="Screenshot 3" width="30%" />
+  <img src="1.png" alt="Screenshot 1" width="49%" />
+  <img src="2.png" alt="Screenshot 2" width="49%" />
 </div>
-
+<div align="center">
+  <img src="3.png" alt="Screenshot 3" width="100%" />
+</div>
 
 
 ## ✨ Features

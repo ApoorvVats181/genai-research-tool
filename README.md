@@ -1,6 +1,16 @@
 # 🧠 GenAI-Powered Research Assistant  
 A smart, generative AI-driven tool that transforms web articles into concise, actionable insights through natural language interaction.
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="1.png" alt="Screenshot 1" width="30%" />
+  <img src="2.png" alt="Screenshot 2" width="30%" />
+  <img src="3.png" alt="Screenshot 3" width="30%" />
+</div>
+
+
+
 ## ✨ Features
 
 - **Multi-URL Knowledge Ingestion**  
